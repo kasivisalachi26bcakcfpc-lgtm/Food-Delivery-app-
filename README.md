@@ -120,9 +120,8 @@ Future versions of BLEZZ could include:
 ---
 
 ## 🔗 Figma Prototype
+https://www.figma.com/proto/VRuz651b9s2SpNpy4vpVAH/Untitled?node-id=0-1&t=PSA6EFsReiQdTdUs-1
 
-**Figma Prototype:**
-https://www.figma.com/proto/L4Z6mCR9owDjUQFDm9Ck4R/Food-Delivery-App?node-id=8-19&t=PWufugRqLXBxqEJE-1
 
 ---
 
